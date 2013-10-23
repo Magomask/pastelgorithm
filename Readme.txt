@@ -1,3 +1,6 @@
+---------------------------
+-- By Miguel Pol
+----------------------------
 -- El resultado de la "torta" es una combinatoria del siguiente modo
 -- A = cantidad de posiciones fila {a11,b11,c11,a21,b21,c21,a31,b31,c31} 
 -- B = cantidad de posiciones columna {a11,b12,c12,a12,b12,c12,a13,b13,c13}
